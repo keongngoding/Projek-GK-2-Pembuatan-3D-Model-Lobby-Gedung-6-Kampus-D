@@ -5,4 +5,8 @@ Kelas: 3IA07
 Nama Anggota:
 
 Alysia Naifah Aileen (50420157)
+
 Reyhan Ardi Mulyoto (51420076)
+
+Projek ini dibuat untuk melengkapi sebagai syarat Mata Kuliah Grafik Komputer 2.
+
